@@ -3,3 +3,6 @@ this is a short little pixel art program where you can just draw things when ur 
 screen with your phone.
 the graphics are entirely made from text ansi escape codes for color (256 colors) 
 and i will fill in colors.h soon (it just gives vars for all the colors u can use)
+
+
+i made a video about this on my youtube channel cash_mune
